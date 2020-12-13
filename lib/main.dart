@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
       ],
     },
     {
-      'questionsText': '"What\'s your favorite club?"',
+      'questionsText': 'What\'s your favorite club?',
       'answers': [
         {'text': 'Juve', 'score': 1},
         {'text': 'Arsenal', 'score': 2},
